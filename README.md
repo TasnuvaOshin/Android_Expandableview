@@ -3,15 +3,13 @@ Easy Android Expandable-view without any dependency . Easy Code and Easy Work Ch
 
 
 
-Main Method Behind it is :
+************ 
 
 
-/*
-Code for Android Expandableview 
 
-Easy to implement no need to add any dependency
-*/
- private void ExpandTheView(final ImageButton imageButton, final LinearLayout linearLayout) {
+  private void ExpandTheView(final ImageButton imageButton, final LinearLayout linearLayout)
+  {
+
 
         imageButton.setOnClickListener(new View.OnClickListener() {
             @Override
